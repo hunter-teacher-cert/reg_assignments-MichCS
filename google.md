@@ -13,9 +13,10 @@ Using the knowledge gained from lessons 1-5, students will:
 
 #### Top Three Search Results:
 
-[P5-JS Artwork Inspiration (code)](https://editor.p5js.org/Sylvesterd2/sketches/B1kLLJ82b)
-[Complex Artwork Inspiration (no code)](https://dribbble.com/search/p5js)
-[When "Abstract Coded p5-JS Art" is wrtten in Google Serached. The results are complex animated CODE. However, animation is not the task.(https://editor.p5js.org/ri1/sketches/gF5dWrxd)
+- [P5-JS Artwork Inspiration (code)](https://editor.p5js.org/Sylvesterd2/sketches/B1kLLJ82b)
+- [Complex Artwork Inspiration (no code)](https://dribbble.com/search/p5js)
+- When "Abstract Coded p5-JS Art" is wrtten in Google Serached...
+[The results are complex animated CODE. However, animation is not the task.(https://editor.p5js.org/ri1/sketches/gF5dWrxd)
 
 
 ### Was the google search useful to identify plagerism:
