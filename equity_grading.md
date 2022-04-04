@@ -1,4 +1,5 @@
-In a markdown document , provide your reaction to the suggestions made in the episode. 
+In a markdown document , provide your reaction to the suggestions made in the [episode](https://sites.duke.edu/csedpodcast/2021/02/15/season-2-episode-4-grading-for-equity/). 
+
 
 ### Do you agree with the general sentiment or not? Do you have specific points of agreement/disagreement? 
 
@@ -13,5 +14,3 @@ Teachers should stop creating and supporting the idea that we create structures 
 ### For those of you currently teaching: Do you think that you would be able to implement some of these ideas in your class? If not, what would keep you from doing so? 
 
 I look forward to implementing many of the new ways of thinking into my beliefs and classroom. It is imperative that we evolve as teachers and break the mundane and monotonous ways of teaching and expectations for learning. Students will be better adults if we teach them to think differently. The grading policy is another way to help our students become lifelong learners and doers of thinking methodically, strategically and purposefully. 
-
-
