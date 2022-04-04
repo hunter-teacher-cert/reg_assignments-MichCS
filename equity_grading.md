@@ -1,6 +1,6 @@
 In a markdown document , provide your reaction to the suggestions made in the episode. 
 
-###Do you agree with the general sentiment or not? Do you have specific points of agreement/disagreement? 
+### Do you agree with the general sentiment or not? Do you have specific points of agreement/disagreement? 
 
 In general, I do agree with many statements that were shared in this new perspective of grading. It is true, as teachers, we have:
  There has been a lack of methodology for grading. We are truly taught to focus on how to effectively grade
