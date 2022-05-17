@@ -5,7 +5,7 @@
 3. [Padlet Response Board](https://padlet.com/mbest41/b3mohsqeo1vf5xvm)
                   
                   
-Main Lesson: [Metaworld Avatar:](https://www.gaiaonline.com/quickreg/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Favatar%2F)
+Main Lesson: [Metaworld Avatar](https://www.gaiaonline.com/quickreg/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Favatar%2F)
 
 
 
