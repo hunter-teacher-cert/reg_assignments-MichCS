@@ -1,4 +1,4 @@
-## Lesson Idea Feedback 
+# Lesson Idea Feedback 
 
 **Group's Topic:** Data Structure
 
