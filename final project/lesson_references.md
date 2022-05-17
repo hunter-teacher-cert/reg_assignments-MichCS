@@ -3,7 +3,6 @@ Follow the following links to the PDF version of the Google Slide Presentation/L
 
 ## Presentation:
 [Google Slides Presentation](https://docs.google.com/presentation/d/12_Owxxm1XFR9uPe75qpIAwIjL-PbeTbcJu4_GqA7u4U/edit?usp=sharing)
-
 **_(1)_** Press SlideShow to view the **_(2)_** clickable links. 
 
 ## **Warm Up Activity:** 
