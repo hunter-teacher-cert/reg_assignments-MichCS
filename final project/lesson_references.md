@@ -1,5 +1,6 @@
 # Lesson Website References: 
-Follow the following links to the PDF version of the Google Slide Presentation/Lesson Plan. You can also press to the [Google Slides Presentation](https://docs.google.com/presentation/d/12_Owxxm1XFR9uPe75qpIAwIjL-PbeTbcJu4_GqA7u4U/edit?usp=sharing), Press SlideShow to view the clickable links. 
+Follow the following links to the PDF version of the Google Slide Presentation/Lesson Plan. 
+You can also (1) press to the [Google Slides Presentation](https://docs.google.com/presentation/d/12_Owxxm1XFR9uPe75qpIAwIjL-PbeTbcJu4_GqA7u4U/edit?usp=sharing), (2)Press SlideShow to view the (3) clickable links. 
 
 ## **Warm Up Activity:** 
 1. [Tic Tac Toe Board](https://editor.p5js.org/cs4all/sketches/Bk3TOJzlE) or [Jamboard](https://jamboard.google.com/d/1yVV9ApFn8CqR8OX-tDNyQ3ghFcitmKIoPWZxccVhyAM/edit?usp=sharing)
