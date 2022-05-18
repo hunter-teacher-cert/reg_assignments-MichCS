@@ -19,3 +19,7 @@ Follow the following links to the PDF version of the Google Slide Presentation/L
 1. ["Hot" Mash Activity](https://kami.app/r9p-aJR-2CE-gsi)
 2. ["Hotter" Naming Avatar Features](https://docs.google.com/presentation/d/1AQ6RYwmNy5rrJUdrBJP5abcqRmjOSMTisui5xYOa8Ww/edit?usp=sharing)                             
 3. ["Hottest" Converting Scenarios into Variables and Values](https://docs.google.com/document/d/1KiJT2ExAjUw42K5EsqxQT1y_8mrCvYVRd6NmxJWo_qw/edit?usp=sharing)
+
+## **End of Lesson Post Review:**
+
+[Padlet Response Board Pt2](https://padlet.com/mbest41/dddxtb7lnwmb79pj)
