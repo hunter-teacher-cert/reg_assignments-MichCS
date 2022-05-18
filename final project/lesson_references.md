@@ -22,4 +22,4 @@ Follow the following links to the PDF version of the Google Slide Presentation/L
 
 ## **End of Lesson Post Review:**
 
-[Padlet Response Board Pt2](https://padlet.com/mbest41/dddxtb7lnwmb79pj)
+[Padlet Response Board](https://padlet.com/mbest41/dddxtb7lnwmb79pj)
