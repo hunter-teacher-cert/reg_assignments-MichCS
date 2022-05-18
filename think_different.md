@@ -1,0 +1,7 @@
+#Think Different
+
+Differentiated strategies support students of all abilities, levels of understanding, and learning styles. In this, there are a variety of strategies that students can use to build their understanding, maximize class time and grow.
+
+One strategy that I continually love to implement is differentiating instruction and learning through tiered levels of academic readiness/understanding. In addition, providing the choice for students to select the level that suits their current stance enriches and empowers self-learning, self-awareness, to name a few. With this strategy, I encourage students to complete the next tier as extra credit. This exposure allows students to see the required thinking and effort needed. There is a boost in esteem as they have just successfully mastered the previous task. 
+
+Another strategy that I have found to be helpful in the classroom is differentiating by process. Providing students with a choice board of options to represent the lesson’s objective/activity. Students can use flipgrid, write an email, create a slide show, etc. 
